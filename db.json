@@ -2,7 +2,7 @@
     "scheduleJobs":[
         {
             "id": 1,
-            "jobName" : "TestJob",
+            "name" : "TestJob",
             "country":"India",
             "jobDescription" : "XYZ",
             "scheduleTime" : "09/10/2017 21:54:00",
@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "jobName" : "TestJob",
+            "name" : "TestJob",
             "country":"US",
             "jobDescription" : "XYZ",
             "scheduleTime" : "09/10/2017 21:54:00",
@@ -22,7 +22,7 @@
         },
         {
             "id": 2,
-            "jobName" : "BackupJob",
+            "name" : "BackupJob",
             "country":"US",
             "jobDescription" : "ABC",
             "scheduleTime" : "09/10/2017 21:55:00",
