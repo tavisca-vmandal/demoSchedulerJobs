@@ -1,27 +1,34 @@
 {
     "scheduleJobs":[
         {
-             {
-            "jobName": "computer",
-            "country": "USA",
-            "description": "fill job description here",
-            "cronExpression": "0/3 * * * * ?",
-            "lastScheduledTime": "2020-01-08T11:20:00.000+0000",
-            "nextScheduledTime": "2020-01-08T11:20:03.000+0000",
-            "status": "Running"
-            }
+            "id": 1,
+            "jobName" : "TestJob",
+            "country":"India",
+            "jobDescription" : "XYZ",
+            "scheduleTime" : "09/10/2017 21:54:00",
+            "lastScheduledTime" : "09/10/2017 21:56:00",
+            "nextScheduleTime" : "09/10/2017 21:58:00",
+            "status" :"Scheduled" 
         },
         {
-          {
-            "jobName": "new",
-            "country": "India",
-            "description": "fill job description here",
-            "cronExpression": "0/3 * * * * ?",
-            "lastScheduledTime": "2020-01-08T11:20:00.000+0000",
-            "nextScheduledTime": "2020-01-08T11:20:03.000+0000",
-            "status": "Running"
-          }
+            "id": 2,
+            "jobName" : "TestJob",
+            "country":"US",
+            "jobDescription" : "XYZ",
+            "scheduleTime" : "09/10/2017 21:54:00",
+            "lastScheduledTime" : "09/10/2017 21:56:00",
+            "nextScheduleTime" : "09/10/2017 21:58:00",
+            "status" :"Scheduled" 
+        },
+        {
+            "id": 2,
+            "jobName" : "BackupJob",
+            "country":"US",
+            "jobDescription" : "ABC",
+            "scheduleTime" : "09/10/2017 21:55:00",
+            "lastScheduledTime" : "09/10/2017 21:56:00",
+            "nextScheduleTime" : "09/10/2017 21:59:00",
+            "status" :"Running" 
         }
-       
     ]
 }
