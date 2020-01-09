@@ -5,7 +5,7 @@
             "jobName" : "TestJob",
             "country":"India",
             "jobDescription" : "XYZ",
-            "scheduleTime" : "09/10/2017 21:54:00",
+            "cronExpression" : "09/10/2017 21:54:00",
             "lastScheduledTime" : "09/10/2017 21:56:00",
             "nextScheduleTime" : "09/10/2017 21:58:00",
             "status" :"Scheduled" 
@@ -15,7 +15,7 @@
             "jobName" : "TestJob",
             "country":"US",
             "jobDescription" : "XYZ",
-            "scheduleTime" : "09/10/2017 21:54:00",
+            "cronExpression" : "09/10/2017 21:54:00",
             "lastScheduledTime" : "09/10/2017 21:56:00",
             "nextScheduleTime" : "09/10/2017 21:58:00",
             "status" :"Scheduled" 
@@ -25,7 +25,7 @@
             "jobName" : "BackupJob",
             "country":"US",
             "jobDescription" : "ABC",
-            "scheduleTime" : "09/10/2017 21:55:00",
+            "cronExpression" : "09/10/2017 21:55:00",
             "lastScheduledTime" : "09/10/2017 21:56:00",
             "nextScheduleTime" : "09/10/2017 21:59:00",
             "status" :"Running" 
