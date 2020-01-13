@@ -8,7 +8,7 @@
             "cronExpression" : "09/10/2017 21:54:00",
             "lastScheduledTime" : "09/10/2017 21:56:00",
             "nextScheduleTime" : "09/10/2017 21:58:00",
-            "status" :"Scheduled" 
+            "status" :"SCHEDULED" 
         },
         {
             "id": 2,
